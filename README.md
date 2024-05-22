@@ -16,7 +16,7 @@ Link - https://chatgpt.com/g/g-llFKGoscr-resume-bullet-points
 
 Title - Professional Writing Expert
 
-Description - Expert in professional and formal writing critique
+Description - Expert in professional and formal writing critique.
 
 Link - https://chatgpt.com/g/g-ZT6BlsP6A-professional-writing-expert
 
@@ -56,7 +56,7 @@ Link - https://chatgpt.com/g/g-FPqh8uBMN-political-translator
 
 Title - Logic Master 9000
 
-Description - A logic master supercomputer
+Description - A logic master supercomputer.
 
 Link - https://chatgpt.com/g/g-j5zgxaJnJ-logic-master-9000
 
@@ -112,9 +112,16 @@ Link - https://chatgpt.com/g/g-VHiSrhYR6-alphabetizer
 
 Title - Prompt Expert One
 
-Description - Expert in crafting effective user prompts
+Description - Expert in crafting effective user prompts.
 
 Link - https://chatgpt.com/g/g-KRjwwHa89-prompt-expert-one
+
+---------------------------------------------------------------------
+Title - Signature Specialist
+
+Description - Creates polished, professional signatures for various needs.
+
+Link - https://chatgpt.com/g/g-ZJUOvXQHz-signature-specialist
 
 ---------------------------------------------------------------------
 
